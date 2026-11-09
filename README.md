@@ -1,2 +1,2 @@
-# IP2_test_Giggertygigs
+# IP2_test
 Testing repositories :D
