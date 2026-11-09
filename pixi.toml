@@ -1,0 +1,10 @@
+[workspace]
+authors = ["JoAnananas <joananvanloo@gmail.com>"]
+channels = ["conda-forge"]
+name = "IP2_test_J-M"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
